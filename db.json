@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de naranja",
+      "precio": 100,
+      "id": "9"
+    },
+    {
+      "id": "580f",
+      "nombre": "new",
+      "precio": 777
+    },
+    {
+      "id": "5661",
+      "nombre": "test1",
+      "precio": 77
+    },
+    {
+      "id": "e660",
+      "nombre": "test2",
+      "precio": 22
+    },
+    {
+      "id": "195f",
+      "nombre": "test final",
+      "precio": 9999
+    }
+  ]
+}
